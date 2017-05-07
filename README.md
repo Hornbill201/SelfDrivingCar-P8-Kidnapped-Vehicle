@@ -1,4 +1,9 @@
-# Overview
+# SelfDrivingCar P8 Kidnapped Vehicle
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)  
+Udacity CarND Term 2  - Project 3 
+---
+
+## Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
 #### Submission
